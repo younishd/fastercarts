@@ -1,0 +1,8 @@
+name: FasterCartsPlugin
+main: fr.younishd.fastercarts.FasterCartsPlugin
+version: ${version}
+author: neoprene
+commands:
+  cartspeed:
+    description: Set the max speed of a minecart.
+    usage: /cartspeed [speed]
